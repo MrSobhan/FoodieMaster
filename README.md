@@ -17,3 +17,12 @@ FoodieMaster is a celebration of Iranian gastronomy. Our goal is to bring the di
 - **Using Rest API**
 - **cultural stories**
 - **very beautiful and responsive design**:
+
+
+## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Globe%20with%20Meridians.png" alt="Slightly Smiling Face" width="25" height="25"/> Support Me
+<div>
+  <a href="https://t.me/soobhhan">
+      You don't want to follow me !?
+  </a>
+
+</div>
