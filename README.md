@@ -1,6 +1,6 @@
 # <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Cyclone.png" width="35" alt="MR.SOBHAN" /> FoodieMaster - Iranian food essence 
 
-Welcome to the official FoodieMaster repository, your culinary gateway to the rich flavors of Iran. Our website is dedicated to the art of Iranian cooking and offers a wealth of recipes, cooking techniques and cultural insights. <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Nerd%20Face.png" width="15" alt="MR.SOBHAN" />
+Welcome to the official FoodieMaster repository, your culinary gateway to the rich flavors of Iran. Our website is dedicated to the art of Iranian cooking and offers a wealth of recipes, cooking techniques and cultural insights. <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Nerd%20Face.png" width="20" alt="MR.SOBHAN" />
 
 
 <img src="https://s30.picofile.com/file/8473877392/8.jpg" alt="MR.SOBHAN" />
